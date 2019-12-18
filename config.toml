@@ -1,0 +1,121 @@
+############################ Default configuration #########################
+baseURL = "https://www.julienandreu.fr/"
+languageCode = "fr-FR"
+# site title
+title = "Julien Andreu : Craftsman et Agile lover"
+# theme
+theme = "awesome-canada"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+author = "Julien Andreu"
+# Disable meta generator
+disableHugoGeneratorInject = true
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+
+########################## Seo ######################################
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/awesome-canada/awesome-canada.css"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+identifier = "index"
+name = "À propos de moi"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "mes-publications"
+name = "Mes publications"
+url = "/mes-publications"
+weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/logo.svg"
+# meta data
+description = "Hello, je suis Julien Andreu, avant tout Craftsman et Agile lover. Je vous fais découvrir mon quotidien, mes problématiques, mes réflexions."
+# google analitycs ID
+googleAnalitycsID = "UA-10792181-2"
+# wording
+readingTime = "%d min. de lecture"
+dateFormat = "2 Jan 2006"
+
+
+####################### error #######################################
+[params.twitter]
+creator = "@julien_andreu"
+
+
+####################### error #######################################
+[params.error]
+title = "Bizarre...<br/>Mais votre page semble...<br/>Introuvable..."
+content = "Je dois quand même pouvoir vous aider..."
+
+
+####################### header #######################################
+[params.header]
+title = "julienandreu<span>.</span>fr"
+mobileTitle = "julien<br/>andreu<span>.</span>fr"
+background = "images/header/lost.jpg"
+
+
+####################### footer #######################################
+[params.footer]
+background = "images/footer/forest.jpg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable= false
+link= "https://www.linkedin.com/in/julien-andreu"
+picture= "images/cta/opportunites.jpg"
+title= "Une idée ou une opportunité à partager ?"
+content= "Ajoutez moi sur <a class=\"social linkedIn\" href=\"https://www.linkedin.com/in/julien-andreu/\" target=\"_blank\" title=\"Ajoutez-moi sur LinkedIn\" rel=\"noopener\">LinkedIn</a> pour que l'on puisse échanger directement ensemble ou suivez mon actualité en temps réel sur <a class=\"social twitter\" href=\"https://twitter.com/julien_andreu\" target=\"_blank\" title=\"Suivez-moi sur Twitter\" rel=\"noopener\">Twitter</a>."
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-linkedin"
+title = "Ajoutez-moi sur LinkedIn"
+link = "https://www.linkedin.com/in/julien-andreu"
+[[params.social]]
+icon = "ti-github"
+title = "Découvrez plus de code sur Github"
+link = "https://github.com/julienandreu"
+[[params.social]]
+icon = "ti-twitter-alt"
+title = "Suivez-moi sur Twitter"
+link = "https://twitter.com/julien-andreu"
+
+
+######################## author ###############################
+[params.author]
+picture = "images/author/julien-andreu.jpg"
+name = "Julien Andreu"
+baseline = "Craftsman & Agile lover"
+job = "Actuellement gestionnaire de projets TI chez <a href=\"https://www.dalenys.com/\" target=\"_blank\" title=\"Découvrez Dalenys\" rel=\"noopener\">Dalenys</a>"

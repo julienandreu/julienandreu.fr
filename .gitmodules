@@ -1,0 +1,3 @@
+[submodule "themes/awesome-canada"]
+	path = themes/awesome-canada
+	url = https://github.com/julienandreu/hugo-theme-awesome-canada.git
