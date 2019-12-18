@@ -1,6 +1,6 @@
 +++
 title = "Content Cheatsheet : misc implementations #1"
-image = "/images/my-posts/oCc_9ptUqSM.jpg"
+image = "/images/mes-publications/oCc_9ptUqSM.jpg"
 author = "Julien Andreu"
 date = 2019-12-15
 description = "Content sample, code highlighting, dynamic graph, different picture implementations"
@@ -50,30 +50,30 @@ graph TD;
 
 Thanks to Nitish Meena : [https://unsplash.com/photos/oCc_9ptUqSM](https://unsplash.com/photos/oCc_9ptUqSM)
 
-![Thanks to Nitish Meena](/images/my-posts/oCc_9ptUqSM.jpg)
+![Thanks to Nitish Meena](/images/mes-publications/oCc_9ptUqSM.jpg)
 
 Thanks to Andrew Welch : [https://unsplash.com/photos/kwXby58kRSo](https://unsplash.com/photos/kwXby58kRSo)
 
-![Thanks to Andrew Welch](/images/my-posts/kwXby58kRSo.jpg)
+![Thanks to Andrew Welch](/images/mes-publications/kwXby58kRSo.jpg)
 
 Thanks to Justine Milton : [https://unsplash.com/photos/xr5whzQaers](https://unsplash.com/photos/xr5whzQaers)
 
-![Thanks to Justine Milton](/images/my-posts/xr5whzQaers.jpg)
+![Thanks to Justine Milton](/images/mes-publications/xr5whzQaers.jpg)
 
 ---
 ## Full width pictures, add trailing # to picture URL
 
 Thanks to Nitish Meena : [https://unsplash.com/photos/oCc_9ptUqSM](https://unsplash.com/photos/oCc_9ptUqSM)
 
-![Thanks to Nitish Meena](/images/my-posts/oCc_9ptUqSM.jpg#)
+![Thanks to Nitish Meena](/images/mes-publications/oCc_9ptUqSM.jpg#)
 
 Thanks to Andrew Welch : [https://unsplash.com/photos/kwXby58kRSo](https://unsplash.com/photos/kwXby58kRSo)
 
-![Thanks to Andrew Welch](/images/my-posts/kwXby58kRSo.jpg#)
+![Thanks to Andrew Welch](/images/mes-publications/kwXby58kRSo.jpg#)
 
 Thanks to Justine Milton : [https://unsplash.com/photos/xr5whzQaers](https://unsplash.com/photos/xr5whzQaers)
 
-![Thanks to Justine Milton](/images/my-posts/xr5whzQaers.jpg#)
+![Thanks to Justine Milton](/images/mes-publications/xr5whzQaers.jpg#)
 
 ---
 ## Raw text
