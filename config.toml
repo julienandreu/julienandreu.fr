@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://www.julienandreu.fr/"
+baseURL = "/"
 languageCode = "fr-FR"
 # site title
 title = "Julien Andreu : Craftsman et Agile lover"
