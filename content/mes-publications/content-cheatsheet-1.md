@@ -17,7 +17,129 @@ enable = true
 
 
 
-## Auprès de qui et de quoi le leadership peut s'appliquer ?
+Avec les tendances actuelles, on parle beaucoup d'organisation horizontale.
+
+On essaie de remettre à plat les hierarchies pour impliquer davantage chaque individu dans sa mission.
+
+On réorganise nos produits, nos équipes et notre management.
+
+D'ailleurs le job de manager évolue et tend de plus en plus à se placer du côté du coaching.
+
+On parle aussi du rôle de leader dans les équipes.
+
+
+
+## C'est quoi un leader ?
+
+Un leader, c'est un individu qui va créer, maintenir et animer la cohésion du groupe.
+
+Il va renforcer le sentiment d'appartenance en ce groupe, faciliter les échanges et maintenir un équilibre.
+
+On parle donc de leadership au sein d'un groupe, pas au sein d'une masse, d'une foule ou d'une assemblée.
+
+Il est important de bien comprendre et distinguer ces ensembles d'individus.
+
+Parlons d'abord de leur points communs :
+
+- Il s'agit à chaque fois d'un groupe d'individus.
+- Ils intègrent tous une notion de localisation : tous les individus sont au même endroit.
+
+Passons de suite à leur différence :
+
+- La masse :
+  - Un grand nombre d'individus indifférenciés et n'ayant aucun but en commun.
+- La foule :
+  - Un certain nombre d'individus qui partagent un but commun.
+  - Ils oeuvrent indépendamment les uns des autres, mais partagent cet objectif mutuel.
+- L'assemblée :
+  - Un certain nombre d'individus ayant des caractéristiques communes.
+  - Ses individus n'ont pas nécessairement de but commun.
+- Le groupe :
+  - Un ensemble d'individus qui oeuvrent dans un but commun
+
+
+
+Dans un groupe, il y a deux frontières qui définissent des zones.
+
+La frontière externe, qui borne l'intérieur groupe : tout ce qui est à l'extérieur de notre frontère externe est considéré comme extérieur au groupe.
+
+La frontière interne, qui définit les zones de membership (appartenance au groupe) et de leadership.
+
+
+
+On distingue donc d'emblée l'endroit où on voudra se placer pour devenir un bon leader : la zone de leadership.
+
+
+
+Dans la vie d'un groupe, il peut y avoir des activités relationnelles, des intéractions sociales. Elles peuvent être de différentes natures.
+
+
+
+Dès qu'on vient de l'extérieur de notre frontière externe, on parlera de compétition.
+
+Si cette activité est interne au groupe, on parlera de collaboration.
+
+
+
+Quand l'activité externe crée de la difficulté pour le groupe, c'est tout simplement de la pression.
+
+Si c'est l'activité interne qui crée de la difficulté, c'est de l'agitation.
+
+Si ces difficultés viennent de la zone de leadership, on considèrera que c'est de la tyrannie.
+
+
+
+Pour comprendre en quoi avoir un leader est important dans un groupe, il faut avoir conscience que le leadership nous fuit naturellement.
+
+Si ce rôle n'est pas établi, il sera implicite...
+
+Les meilleurs vecteurs de travail en groupe étant la transparence et la communication, si on n'établit pas explicitement le leadership, on s'expose à des difficultés complexes.
+
+
+
+L'objectif primordial du leader, c'est de maintenir la cohésion.
+
+Être un leader, c'est un rôle et pas un titre.
+
+Ce rôle vient en complément des missions usuelles de l'individu. Il vient donc logiquement surcharger l'activité et la chose la plus important en tant que leader, c'est d'accepter d'utiliser son temps ailleurs que dans de la production.
+
+Il faut abandonner l'idée du "Je dicte, j'ordonne". Il faut se recentrer sur l'action : le faire.
+
+
+
+Ce qu'on attend d'un leader :
+
+- Récompenser
+- Punir
+- Prendre des décisions irrévocables
+- Protéger les frontières
+
+
+
+Mais comment faire ?
+
+Il existe deux branches dans le leadership, deux manières d'intéragir.
+
+1. La branche policière
+2. La branche idéologique
+
+
+
+
+
+---
+
+---
+
+===
+
+---
+
+---
+
+
+
+
 
 Tout d'abord, il faut savoir définir le contexte d'application du **leadership**.
 
@@ -102,7 +224,7 @@ Il est important de **définir constamment le groupe**, il ne faut pas laisser p
 
 Ces frontières matérialisent aussi certaines notions **de compétition, de collaboration, de pression et d'agitation**.
 
-
+---
 
 ## La pression, c'est quoi ?
 
@@ -116,5 +238,16 @@ _Exemple : Un client qui impose des délais très réduits_
 
 A l'inverse, si ce sont les membres du groupe eux-mêmes qui se bousculent ou bousculent le(s) leader(s), on parlera d'**agitation**.
 
+Si les membres du leadership sont à la source de cet agitation, on parlera plutôt de **tyrannie**.
+
 ![Groupe](/images/mes-publications/leadership/agitation.png)
 
+---
+
+## Comment gérer et éviter les frictions ?
+
+Il faut maintenir la **cohésion** et donc le **sentiment d'appartenance**.
+
+## Comment devient-on un leader ?
+
+Il suffit de créer et de maintenir la cohésion du groupe.
