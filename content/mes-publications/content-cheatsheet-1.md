@@ -116,138 +116,172 @@ Ce qu'on attend d'un leader :
 
 
 
+Le leader a aussi la responsabilité du recrutement du groupe.
+
+Il est aussi responsable de la communication au sein du groupe, mais aussi à l'extérieur du groupe.
+
+
+
 Mais comment faire ?
 
 Il existe deux branches dans le leadership, deux manières d'intéragir.
 
-1. La branche policière
-2. La branche idéologique
+1. Une branche orientée autour de l'ordre : la branche policière
+2. Une branche orientée autour de l'idéologie : la branche idéologique
 
 
 
+Pour impacter au maximum les membres du groupe, il faut savoir les impacter intellectuellement, émotionnellement et physiquement.
 
 
----
 
----
+{{<mermaid class="full">}}
+stateDiagram
 
-===
+Tête --> Coeur
+Coeur --> Corps
 
----
+Tête --> Tête
+Coeur --> Coeur
+Corps --> Corps
+{{</mermaid>}}
 
----
+Voilà une idée de l'impact intégral :
 
+1. Tête : Se faire comprendre
+2. Coeur : Toucher émotionnellement, cela ne fonctionne que si on s'est bien fait comprendre
+3. Corps : Engager à agir, cela ne fonctionne que si on a réussi à impliquer émotionnellement notre interlocuteur
 
 
 
+Il existe trois catégories d'artefacts pour créer de la cohésion :
 
-Tout d'abord, il faut savoir définir le contexte d'application du **leadership**.
+1. Sacralisation : mise en place d'événements "sacrés" (tout le monde y participe, on y fédère nos collaborateurs, on s'implique et on les implique individuellement)
+2. Propagande : logo, nom d'équipe (tout le monde participe à leur élaboration, on renforce le sentiment d'appartenance et on matérialise la notion de groupe à travers des objets)
+3. Cérémonie : processus d'onboarding, bizutage (on crée des cérémonies par lesquelles tout membre doit passer, c'est une manière de matérialiser l'arrivée d'un nouvel individu dans le groupe)
 
 
 
----
+Le groupe doit être focalisé sur l'efficience pour agir de manière optimale.
 
-## Comment définir un groupe ?
 
-Savez-vous ce qui différencie une **masse**, d'une **foule**, d'une **assemblée** et enfin d'un **groupe** ?
 
-Ces différents termes ont des points communs, pour chacun d'eux il s'agit d'un ensemble d'individus localisé au même endroit, pourtant il n'est pas facile au premier abord de les distinguer. Je vais tenter d'apporter des réponses et des définitions distinctes.
+Le leader doit faire preuve d'antagonisme : tous les membres d'un groupe ne peuvent pas être dans la zone de Leadership, il aura donc besoin de faire réfléchir les membres sur leur propre situation en les poussant à prendre du recul.
 
+Il doit être vecteur d'adhésion et communiquer de manière très claire sur son activité.
 
 
----
 
-## Qu'est ce qui constitue une masse d'individus ?
+La zone de leadership peut s'effacer ou ne plus être portée par ses membres.
 
-C'est la notion la plus basique : une masse d'individus constitue un grand nombre de personnes "quelconques". C'est un simple ensemble d'individus indifférenciés et n'ayant aucun but commun.
+Les leaders peuvent ne pas/plus répondre aux attentes du groupe.
 
-![Masse d'individus](/images/mes-publications/leadership/masse.png)
+Le groupe pourrait employer des techniques pour asseoir sa situation :
 
----
+- Le bouc émissaire : Faire endosser une responsabilité ou une faute à un individu, un groupe alors qu'il est partiellement ou totalement innocent : le groupe peut se retrouver déchirer du reste de l'organisation.
+- Secret et loyauté : Partager des secrets, juger de la loyauté des membres du groupe : cela renforce la cohésion au dépend de la transparence, il y aura une opacité omniprésente, l'intégration de nouveaux membres ou les alignements externes seront d'autant plus compliqués.
+- Abandonner : Arrêter de mettre de l'énergie par crainte ou par peur : le groupe risque de se replier sur lui-même, ses membres perdront confiance et la frontière externe deviendra infranchissable.
 
+Ces techniques sont négatives et courtermistes, mais renforcent toutefois la cohésion.
 
-## Qu'est qui constitue une foule ?
+Elles ne sont pas perennes et doivent être vide identifiées et enraillées pour reconstruire un leadership bienveillant.
 
-Une foule s'apparente à une masse à la différence près que cet ensemble de personnes partage un seul but commun. Ils oeuvrent indépendamment les uns des autres, mais partage cet objectif mutuel.
 
-_Exemple : Les visiteurs de Disneyland Paris, qui attendent autour des agents de sécurités de pouvoir entrer dans le parc d'attraction._
 
-![Foule](/images/mes-publications/leadership/foule.png)
+Il faut donc focaliser les énergie à l'absorption de la pression à la résolution de l'agitation et donc à l'activité du groupe.
 
----
+On peut comparer ces rapports de force à une formule mathématique.
 
-## Qu'est qui constitue une assemblée ?
 
-L'assemblée introduit des notions individuelles dans un ensemble de personnes. Elle est constituée d'individus ayant des caractéristiques communes. Ses individus n'ont pas nécessairement de but commun.
 
-_Exemple : Les lecteurs de mon article qui sont bruns._
+Les 100% de l'effort du groupe peuvent être répartis de différentes manière, en voici deux exemples :
 
-![Assemblée](/images/mes-publications/leadership/assemblee.png)
 
----
 
-## Et notre groupe dans tout ça ?
+{{<mermaid class="small">}}
+pie
+    title Répartition de l'effort du groupe
+    "Pression (70%)" : 70
+    "Agitation (10%)" : 10
+    "Activité (20%)" : 20 
+{{</mermaid>}}
 
-Un groupe est un ensemble d'individus qui oeuvrent dans un **but commun**.
+70% de pression + 10% d'agitation = 80% friction, il ne reste que 20% d'effort alloué à l'activité
 
-C'est la définition la plus simple à établir et pourtant elle reste très complexe au quotidien.
 
-Comment établir un objectif commun ? Comment le mesurer et surtout comment fédérer, porter chaque individu pour qu'il se sente responsable de la conduite de ce but ?
 
-Autant de questions auxquelles il est très difficile de répondre.
+{{<mermaid class="small">}}
+pie
+    title Répartition de l'effort du groupe
+    "Pression  (30%)" : 30
+    "Agitation (5%)" : 5
+    "Activité (65%)" : 65
+{{</mermaid>}}
 
-Pour nous éclairer, nous pouvons compter sur **la théorie de l'organisation de Berne ou TOB**.
+30% de pression + 5% d'agitation = 30% de friction, il reste donc 65% d'effort à l'activité
 
-Il est primordial d'après cette théorie, d'identifier les **frontières** d'un groupe et donc toutes les **zones** qui le constitutent.
 
-![Groupe](/images/mes-publications/leadership/groupe.png)
 
----
+Mais alors, comment réagir, comment répartir son énergie pour inverser des tendances négatives, comment être un leader qui favorise l'efficience ?
 
-## Les bornes d'un groupe
 
-Le groupe est délimité par la **frontière externe**.
 
-A l'extérieur de cette frontière,  il y a l'**extérieur du groupe** qui constitue un ensemble non défini d'individus.
+On distingue deux manières d'appréhender les situations complexes, : l'ouverture et la fermeture.
 
-L'**intérieur du groupe** est quant à lui identifié par tous les individus à l'intérieur de cette même frontière.
+Globalement, l'ouverture crée une situation infantilisante : à travers des questions ouvertes, en demandant la permission.
 
-Il y a toutefois une granularité plus importante au sein du groupe : les zones de **membership** et de **leadership**.
+En opposition, la fermeture est orientée autour de la protection, avec une perception parentale, en posant des questions fermées.
 
-Ces **deux zones** sont délimitées par la **frontière interne**.
 
-Nous avons donc deux frontières distinctes : interne et externe.
 
-![Groupe](/images/mes-publications/leadership/zones.png)
+Voici quelques exemples d'actions à mener selon les frontières du groupe :
 
-Il est important de **définir constamment le groupe**, il ne faut pas laisser perdurer d'ambigüité. Il faut pouvoir agir sur sa **localisation** (rassembler physiquement les individus), son **objectif** et sur ses **membres**.
+### Frontière externe : en réaction à la pression
 
-Ces frontières matérialisent aussi certaines notions **de compétition, de collaboration, de pression et d'agitation**.
+| Ouverture                      | Fermeture                          |
+| ------------------------------ | ---------------------------------- |
+| Faire des pauses               | Être directif                      |
+| Faire des sprints techniques   | Imposer davantage de concentration |
+| Aider à se séparer d'un membre | Intégrer un nouveau membre         |
 
----
+### Frontière interne : en réaction à l'agitation
 
-## La pression, c'est quoi ?
+| Ouverture                                  | Fermeture                      |
+| ------------------------------------------ | ------------------------------ |
+| Générer des idées communes : brainstorming | Recentrer autour des objectifs |
+| Donner du sens à l'activité                | Donner des responsabilités     |
+| Gratifier le groupe                        | Promouvoir de nouveaux leaders |
 
-On parle de **pression** lorsque la source est **externe** et d'**agitation** lorsque la source en est **interne**.
 
-Ainsi si des individus externes bousculent le groupe, on va parler de **pression**.
 
-_Exemple : Un client qui impose des délais très réduits_
+En tant que membre du groupe, vous pouvez aider votre leader, votre manager.
 
-![Groupe](/images/mes-publications/leadership/pression.png)
+Vous pouvez lui faire identifier son scope et à le matérialiser en organisant par exemple un "delegation poker".
 
-A l'inverse, si ce sont les membres du groupe eux-mêmes qui se bousculent ou bousculent le(s) leader(s), on parlera d'**agitation**.
+Vous pouvez aussi adapter vos échanges avec lui en fonction du contexte et du moment : la bienveillance reste centrale dans les échanges sociaux et encore plus lorsque l'on partage un objectif commun.
 
-Si les membres du leadership sont à la source de cet agitation, on parlera plutôt de **tyrannie**.
 
-![Groupe](/images/mes-publications/leadership/agitation.png)
 
----
 
-## Comment gérer et éviter les frictions ?
 
-Il faut maintenir la **cohésion** et donc le **sentiment d'appartenance**.
+Enfin, pour favoriser la cohésion, il faut que tous les membres du groupe s'approprient une partie de ce groupe. Qu'ils participent à la constitution de son historique, qu'il s'y inscrivent complètement. Qu'ils le défendent comme si c'était eux qui l'avaient fondé.
 
-## Comment devient-on un leader ?
 
-Il suffit de créer et de maintenir la cohésion du groupe.
+
+En tant que leader, vous avez absolument besoin de montrer que cet effort de leadership vient nuancer votre capacité à produire, vient relativiser votre activité.
+
+Que ce temps que vous prenez pour vous et surtout pour les autres, est avant tout bénéfique au groupe.
+
+Que vous oeuvrez pour le bien commun et pour que tout le monde regarde et aille dans la même direction.
+
+Il est important d'avoir un esprit analytique et bienveillant. il est important d'assumer pleinement ce rôle et d'y être dédié, presque consacré.
+
+
+
+Un merci à Jean-Yves Cazac, Head of developers chez Dalenys qui m'a permis de participer à la Xebicon 2019.
+
+Un énorme merci à Anne-Sophie Girault, Coach Agile Senior chez Xebia pour son Talk sur "La cohésion de groupe en analyse transactionnelle : une clef du leadership" qui a énormément inspiré cet article.
+
+
+
+Merci à vous d'avoir lu cette publication.
