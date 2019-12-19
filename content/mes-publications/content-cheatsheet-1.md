@@ -1,5 +1,5 @@
 +++
-title = "Content Cheatsheet : misc implementations #1"
+title = "Comment prendre le leadership et devenir acteur de la cohésion"
 image = "/images/mes-publications/oCc_9ptUqSM.jpg"
 author = "Julien Andreu"
 date = 2019-12-15
@@ -15,71 +15,106 @@ enable = true
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus mattis justo, id viverra lorem laoreet quis. Integer posuere nisi efficitur, aliquam nibh quis, sollicitudin elit. Ut eleifend nisl accumsan, posuere odio vel, eleifend velit. Aliquam sit amet dapibus leo. Sed vel quam ullamcorper, sagittis metus ac, tincidunt turpis. Aenean pellentesque dui in felis ornare hendrerit. Fusce hendrerit massa a lorem porttitor, non convallis mauris auctor. Morbi vestibulum at diam id fringilla. Praesent est quam, faucibus congue egestas et, eleifend ac augue. Duis vel nulla et odio mollis tincidunt non quis nisi. Phasellus in nunc quis nibh ultrices ultricies a eget nibh. Ut nec ipsum orci. Vivamus quis turpis hendrerit, commodo ante feugiat, euismod eros. Phasellus ornare justo id luctus condimentum. Sed lacinia nibh et metus fringilla ornare. Nullam at interdum purus.
 
----
-## Code highlight
 
-{{< highlight html "linenos=table,hl_lines=2 4-6,linenostart=199">}}
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-    TEST --> Ok === Youhou
-  </div>
-</section>
-{{< /highlight >}}
+## Auprès de qui et de quoi le leadership peut s'appliquer ?
 
----
-## Graph
+Tout d'abord, il faut savoir définir le contexte d'application du **leadership**.
 
-[Graph sample through MermaidJS library](https://mermaid-js.github.io/mermaid/)
 
-{{<mermaid class="full">}}
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-{{</mermaid>}}
-
----
-## Fixed pictures 
-
-Thanks to Nitish Meena : [https://unsplash.com/photos/oCc_9ptUqSM](https://unsplash.com/photos/oCc_9ptUqSM)
-
-![Thanks to Nitish Meena](/images/mes-publications/oCc_9ptUqSM.jpg)
-
-Thanks to Andrew Welch : [https://unsplash.com/photos/kwXby58kRSo](https://unsplash.com/photos/kwXby58kRSo)
-
-![Thanks to Andrew Welch](/images/mes-publications/kwXby58kRSo.jpg)
-
-Thanks to Justine Milton : [https://unsplash.com/photos/xr5whzQaers](https://unsplash.com/photos/xr5whzQaers)
-
-![Thanks to Justine Milton](/images/mes-publications/xr5whzQaers.jpg)
-
----
-## Full width pictures, add trailing # to picture URL
-
-Thanks to Nitish Meena : [https://unsplash.com/photos/oCc_9ptUqSM](https://unsplash.com/photos/oCc_9ptUqSM)
-
-![Thanks to Nitish Meena](/images/mes-publications/oCc_9ptUqSM.jpg#)
-
-Thanks to Andrew Welch : [https://unsplash.com/photos/kwXby58kRSo](https://unsplash.com/photos/kwXby58kRSo)
-
-![Thanks to Andrew Welch](/images/mes-publications/kwXby58kRSo.jpg#)
-
-Thanks to Justine Milton : [https://unsplash.com/photos/xr5whzQaers](https://unsplash.com/photos/xr5whzQaers)
-
-![Thanks to Justine Milton](/images/mes-publications/xr5whzQaers.jpg#)
-
----
-## Raw text
-
-Proin sagittis, elit ac vulputate viverra, diam quam hendrerit felis, ornare varius lorem eros quis erat. Sed convallis eu sem id vulputate. Donec ullamcorper convallis vehicula. Aenean hendrerit lectus quis orci ultricies commodo. Nam sodales ex in egestas semper. Nullam sed hendrerit ipsum. Fusce laoreet iaculis urna.
 
 ---
 
-Vivamus vel arcu sit amet justo feugiat faucibus a ac ligula. Curabitur tristique quam placerat, pretium quam quis, malesuada augue. Integer quis egestas sapien. Proin eget eleifend nisi. Quisque dapibus dapibus leo, sed viverra sapien. Donec rhoncus nisl commodo nibh molestie gravida. Curabitur dictum varius facilisis. Curabitur mauris velit, cursus a nisl non, sollicitudin gravida metus. Praesent nec nunc quis tortor pharetra varius. Morbi lacinia a elit ac egestas. Mauris vitae purus non tortor tincidunt sodales et ut diam. Proin auctor ante ac rhoncus feugiat. Sed eu lectus id lorem convallis fermentum eget sed sapien.
+## Comment définir un groupe ?
+
+Savez-vous ce qui différencie une **masse**, d'une **foule**, d'une **assemblée** et enfin d'un **groupe** ?
+
+Ces différents termes ont des points communs, pour chacun d'eux il s'agit d'un ensemble d'individus localisé au même endroit, pourtant il n'est pas facile au premier abord de les distinguer. Je vais tenter d'apporter des réponses et des définitions distinctes.
+
+
+
+---
+
+## Qu'est ce qui constitue une masse d'individus ?
+
+C'est la notion la plus basique : une masse d'individus constitue un grand nombre de personnes "quelconques". C'est un simple ensemble d'individus indifférenciés et n'ayant aucun but commun.
+
+![Masse d'individus](/images/mes-publications/leadership/masse.png)
+
+---
+
+
+## Qu'est qui constitue une foule ?
+
+Une foule s'apparente à une masse à la différence près que cet ensemble de personnes partage un seul but commun. Ils oeuvrent indépendamment les uns des autres, mais partage cet objectif mutuel.
+
+_Exemple : Les visiteurs de Disneyland Paris, qui attendent autour des agents de sécurités de pouvoir entrer dans le parc d'attraction._
+
+![Foule](/images/mes-publications/leadership/foule.png)
+
+---
+
+## Qu'est qui constitue une assemblée ?
+
+L'assemblée introduit des notions individuelles dans un ensemble de personnes. Elle est constituée d'individus ayant des caractéristiques communes. Ses individus n'ont pas nécessairement de but commun.
+
+_Exemple : Les lecteurs de mon article qui sont bruns._
+
+![Assemblée](/images/mes-publications/leadership/assemblee.png)
+
+---
+
+## Et notre groupe dans tout ça ?
+
+Un groupe est un ensemble d'individus qui oeuvrent dans un **but commun**.
+
+C'est la définition la plus simple à établir et pourtant elle reste très complexe au quotidien.
+
+Comment établir un objectif commun ? Comment le mesurer et surtout comment fédérer, porter chaque individu pour qu'il se sente responsable de la conduite de ce but ?
+
+Autant de questions auxquelles il est très difficile de répondre.
+
+Pour nous éclairer, nous pouvons compter sur **la théorie de l'organisation de Berne ou TOB**.
+
+Il est primordial d'après cette théorie, d'identifier les **frontières** d'un groupe et donc toutes les **zones** qui le constitutent.
+
+![Groupe](/images/mes-publications/leadership/groupe.png)
+
+---
+
+## Les bornes d'un groupe
+
+Le groupe est délimité par la **frontière externe**.
+
+A l'extérieur de cette frontière,  il y a l'**extérieur du groupe** qui constitue un ensemble non défini d'individus.
+
+L'**intérieur du groupe** est quant à lui identifié par tous les individus à l'intérieur de cette même frontière.
+
+Il y a toutefois une granularité plus importante au sein du groupe : les zones de **membership** et de **leadership**.
+
+Ces **deux zones** sont délimitées par la **frontière interne**.
+
+Nous avons donc deux frontières distinctes : interne et externe.
+
+![Groupe](/images/mes-publications/leadership/zones.png)
+
+Il est important de **définir constamment le groupe**, il ne faut pas laisser perdurer d'ambigüité. Il faut pouvoir agir sur sa **localisation** (rassembler physiquement les individus), son **objectif** et sur ses **membres**.
+
+Ces frontières matérialisent aussi certaines notions **de compétition, de collaboration, de pression et d'agitation**.
+
+
+
+## La pression, c'est quoi ?
+
+On parle de **pression** lorsque la source est **externe** et d'**agitation** lorsque la source en est **interne**.
+
+Ainsi si des individus externes bousculent le groupe, on va parler de **pression**.
+
+_Exemple : Un client qui impose des délais très réduits_
+
+![Groupe](/images/mes-publications/leadership/pression.png)
+
+A l'inverse, si ce sont les membres du groupe eux-mêmes qui se bousculent ou bousculent le(s) leader(s), on parlera d'**agitation**.
+
+![Groupe](/images/mes-publications/leadership/agitation.png)
+
