@@ -15,64 +15,47 @@ enable = true
 
 +++
 
-
-
 Avec les tendances actuelles, on parle beaucoup d'organisation horizontale.
-
-On essaie de remettre à plat les hierarchies pour impliquer davantage chaque individu dans sa mission.
-
+On essaie de remettre à plat les hiérarchies pour impliquer davantage chaque individu dans sa mission.
 On réorganise nos produits, nos équipes et notre management.
-
 D'ailleurs le job de manager évolue et tend de plus en plus à se placer du côté du coaching.
-
 On parle aussi du rôle de leader dans les équipes.
-
-
 
 ## C'est quoi un leader ?
 
-Un leader, c'est un individu qui va créer, maintenir et animer la cohésion du groupe.
+Un leader, c'est un individu qui va créer, maintenir et animer la **cohésion du groupe**.
+Il va renforcer le sentiment d'appartenance au groupe, faciliter les échanges et maintenir un équilibre.
 
-Il va renforcer le sentiment d'appartenance en ce groupe, faciliter les échanges et maintenir un équilibre.
+![Le leader est avant tout dans l'équipe](/images/mes-publications/leadership/leader.jpg)
 
-On parle donc de leadership au sein d'un groupe, pas au sein d'une masse, d'une foule ou d'une assemblée.
-
+On parle aussi de leadership au sein d'un groupe, pas dans une masse, ni dans une foule ou une assemblée.
 Il est important de bien comprendre et distinguer ces ensembles d'individus.
 
 Parlons d'abord de leur points communs :
+- Il s'agit à chaque fois d'un **groupe d'individus**.
+- Ils intègrent tous une notion de localisation : **tous les individus sont au même endroit**.
 
-- Il s'agit à chaque fois d'un groupe d'individus.
-- Ils intègrent tous une notion de localisation : tous les individus sont au même endroit.
-
-Passons de suite à leur différence :
-
-- La masse :
+Passons à leur définitions :
+- **La masse** :
   - Un grand nombre d'individus indifférenciés et n'ayant aucun but en commun.
-- La foule :
+- **La foule** :
   - Un certain nombre d'individus qui partagent un but commun.
   - Ils oeuvrent indépendamment les uns des autres, mais partagent cet objectif mutuel.
-- L'assemblée :
+- **L'assemblée** :
   - Un certain nombre d'individus ayant des caractéristiques communes.
   - Ses individus n'ont pas nécessairement de but commun.
-- Le groupe :
+- **Le groupe** :
   - Un ensemble d'individus qui oeuvrent dans un but commun
 
+Dans un groupe, il y a **deux frontières** qui définissent des **zones** :
+1. La **frontière externe**, qui borne l'intérieur groupe : tout ce qui est à l'extérieur de notre frontère externe est considéré comme extérieur au groupe.
+2. La **frontière interne**, qui définit les zones de membership (appartenance au groupe) et de leadership.
 
+Pour devenir un bon leader, il faudra se placer dans la **zone de leadership**.
 
-Dans un groupe, il y a deux frontières qui définissent des zones.
+![Zone de leadership](/images/mes-publications/leadership/zone-leadership.svg)
 
-La frontière externe, qui borne l'intérieur groupe : tout ce qui est à l'extérieur de notre frontère externe est considéré comme extérieur au groupe.
-
-La frontière interne, qui définit les zones de membership (appartenance au groupe) et de leadership.
-
-
-
-On distingue donc d'emblée l'endroit où on voudra se placer pour devenir un bon leader : la zone de leadership.
-
-
-
-Dans la vie d'un groupe, il peut y avoir des activités relationnelles, des intéractions sociales. Elles peuvent être de différentes natures.
-
+Dans la vie d'un groupe, il peut y avoir de l'activité relationnelle, des intéractions sociales. Elles peuvent être de différentes natures.
 
 
 Dès qu'on vient de l'extérieur de notre frontière externe, on parlera de compétition.
@@ -135,16 +118,7 @@ Pour impacter au maximum les membres du groupe, il faut savoir les impacter inte
 
 
 
-{{<mermaid class="full">}}
-stateDiagram
-
-Tête --> Coeur
-Coeur --> Corps
-
-Tête --> Tête
-Coeur --> Coeur
-Corps --> Corps
-{{</mermaid>}}
+![Tête -> Coeur -> Corps](/images/mes-publications/leadership/tete-coeur-corps.svg)
 
 Voilà une idée de l'impact intégral :
 
@@ -198,25 +172,15 @@ Les 100% de l'effort du groupe peuvent être répartis de différentes manière,
 
 
 
-{{<mermaid class="small">}}
-pie
-    title Répartition de l'effort du groupe
-    "Pression (70%)" : 70
-    "Agitation (10%)" : 10
-    "Activité (20%)" : 20 
-{{</mermaid>}}
+
+
+![Répartition de l'effort #1](/images/mes-publications/leadership/repartition-effort-1.svg)
+
 
 70% de pression + 10% d'agitation = 80% friction, il ne reste que 20% d'effort alloué à l'activité
 
 
-
-{{<mermaid class="small">}}
-pie
-    title Répartition de l'effort du groupe
-    "Pression  (30%)" : 30
-    "Agitation (5%)" : 5
-    "Activité (65%)" : 65
-{{</mermaid>}}
+![Répartition de l'effort #2](/images/mes-publications/leadership/repartition-effort-2.svg)
 
 30% de pression + 5% d'agitation = 30% de friction, il reste donc 65% d'effort à l'activité
 
