@@ -124,7 +124,7 @@ Le groupe pourrait employer des techniques pour asseoir sa situation :
 - **Abandonner** : Arrêter de mettre de l'énergie par crainte ou par peur : le groupe risque de se replier sur lui-même, ses membres perdront confiance et la frontière externe deviendra infranchissable.
 
 Ces techniques sont négatives et courtermistes, mais renforcent toutefois la cohésion.
-Elles ne sont pas perennes et doivent être vide identifiées et enraillées pour forger un leadership bienveillant.
+Elles ne sont pas perennes et doivent être vite identifiées et enraillées pour forger un leadership bienveillant.
 
 Il faut donc focaliser les énergies à l'absorption de la pression, à la résolution de l'agitation et donc à l'activité du groupe.
 On peut assimiler ces rapports de force à une formule mathématique.
