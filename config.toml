@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "fr-FR"
 # site title
-title = "Julien Andreu : Craftsman et Agile lover"
+title = "Julien Andreu"
 # theme
 theme = "awesome-canada"
 # post pagination

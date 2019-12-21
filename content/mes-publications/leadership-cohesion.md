@@ -2,7 +2,7 @@
 title = "Comment prendre le leadership et devenir acteur de la cohésion"
 image = "/images/mes-publications/leadership/leadership-cohesion.jpg"
 author = "Julien Andreu"
-date = 2019-12-15
+date = 2019-12-21
 description = "Être un leader c'est créer, maintenir et animer la cohésion du groupe. C'est centrer le groupe autour de l'objectif commun avec un soucis perpétuel d'efficience."
 type = "post"
 categories = ["Coaching"]
