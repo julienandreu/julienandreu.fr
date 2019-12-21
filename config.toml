@@ -62,7 +62,7 @@ googleAnalitycsID = "UA-10792181-2"
 # wording
 readingTime = "%d min. de lecture"
 dateFormat = "2 Jan 2006"
-copyright = "© 2019 julienandreu.fr, Julien Andreu. Tous droits réservés."
+copyright = "© 2019 julienandreu.com, Julien Andreu. Tous droits réservés."
 
 
 ####################### error #######################################
@@ -78,8 +78,8 @@ content = "Je dois quand même pouvoir vous aider..."
 
 ####################### header #######################################
 [params.header]
-title = "julienandreu<span>.</span>fr"
-mobileTitle = "julien<br/>andreu<span>.</span>fr"
+title = "julienandreu<span>.</span>com"
+mobileTitle = "julien<br/>andreu<span>.</span>com"
 background = "images/header/lost.jpg"
 
 
