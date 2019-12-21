@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "fr-FR"
 # site title
-title = "Julien Andreu : Craftsman et Agile lover"
+title = "Julien Andreu"
 # theme
 theme = "awesome-canada"
 # post pagination
@@ -54,9 +54,7 @@ weight = 2
 ######################### Default Parameters ###########################
 [params]
 # home
-home = "Home"
-# logo
-logo = "images/logo.svg"
+home = "À propos de moi"
 # meta data
 description = "Hello, je suis Julien Andreu, avant tout Craftsman et Agile lover. Je vous fais découvrir mon quotidien, mes problématiques, mes réflexions."
 # google analitycs ID
@@ -64,6 +62,7 @@ googleAnalitycsID = "UA-10792181-2"
 # wording
 readingTime = "%d min. de lecture"
 dateFormat = "2 Jan 2006"
+copyright = "© 2019 julienandreu.com, Julien Andreu. Tous droits réservés."
 
 
 ####################### error #######################################
@@ -79,8 +78,8 @@ content = "Je dois quand même pouvoir vous aider..."
 
 ####################### header #######################################
 [params.header]
-title = "julienandreu<span>.</span>fr"
-mobileTitle = "julien<br/>andreu<span>.</span>fr"
+title = "julienandreu<span>.</span>com"
+mobileTitle = "julien<br/>andreu<span>.</span>com"
 background = "images/header/lost.jpg"
 
 
