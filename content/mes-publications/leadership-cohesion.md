@@ -136,7 +136,7 @@ Les 100% de l'effort du groupe peuvent être répartis de différentes manière,
 
 
 ![Répartition de l'effort #2](/images/mes-publications/leadership/repartition-effort-2.svg)
-30% de pression + 5% d'agitation = 30% de friction, il reste donc 65% d'effort disponible à l'activité 😁
+30% de pression + 5% d'agitation = 35% de friction, il reste donc 65% d'effort disponible à l'activité 😁
 
 Mais alors, comment réagir, comment répartir son énergie pour inverser des tendances négatives, comment être un leader qui favorise l'efficience ?
 
