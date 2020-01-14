@@ -29,7 +29,7 @@ _Attention [au syndrôme de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_
 
 Les entreprises qui cherchent à recruter un junior ont bien conscience de ce qu’elles pourraient **gagner et aussi apporter** à ce type de profil.
 
-Elles ont bien connaissance de cette relation **WIN <-> WIN** qui existe.
+Elles ont bien connaissance de cette relation **WIN <--> WIN** qui existe.
 
 Les profils juniors sont des diamants bruts qui ne manquent qu’à être polis.
 
