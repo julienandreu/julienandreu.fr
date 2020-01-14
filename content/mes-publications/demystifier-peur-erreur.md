@@ -142,7 +142,7 @@ On a vraiment besoin d’un minimum d’anticipation.
 
 Pour avoir cette anticipation sans expérience, **il faut réfléchir, coucher ses idées sur papier, être force de proposition et ne pas hésiter à évoquer des solutions complètement décorrelées les unes des autres**.
 
-En somme, être un junior fait de vous un collaborateur à la progression la plus propice aux besoins de votre entreprise à un instant t.
+En somme, être un junior fait de vous un collaborateur à la progression la plus propice aux besoins de votre entreprise à un instant T.
 
 Et si un junior échoue, c’est aussi l’échec de son leader, de son équipe et tout le monde en a bien conscience.
 
