@@ -2,14 +2,10 @@
 title = "Démystifier la peur de l'erreur"
 image = "/images/mes-publications/demystifier-peur-erreur/demystifier-peur-erreur.jpg"
 author = "Julien Andreu"
-date = 2019-12-21
+date = 2020-01-14
 description = "Comment un junior doit appréhender son manque d'expérience et savoir valoriser son profil ?"
 type = "post"
 categories = ["Coaching"]
-[[plugins.css]]
-URL = "plugins/code-highlight/code-highlight.css"
-[[plugins.js]]
-URL = "plugins/mermaid/mermaid.min.js"
 [cta]
 enable = true
 
@@ -33,7 +29,7 @@ _Attention [au syndrôme de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_
 
 Les entreprises qui cherchent à recruter un junior ont bien conscience de ce qu’elles pourraient **gagner et aussi apporter** à ce type de profil.
 
-Elles ont bien connaissance de cette relation **WIN <-> WIN** qui existe.
+Elles ont bien connaissance de cette relation **WIN <--> WIN** qui existe.
 
 Les profils juniors sont des diamants bruts qui ne manquent qu’à être polis.
 
