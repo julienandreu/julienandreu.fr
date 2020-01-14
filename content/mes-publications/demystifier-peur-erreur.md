@@ -2,14 +2,10 @@
 title = "Démystifier la peur de l'erreur"
 image = "/images/mes-publications/demystifier-peur-erreur/demystifier-peur-erreur.jpg"
 author = "Julien Andreu"
-date = 2019-12-21
+date = 2020-01-14
 description = "Comment un junior doit appréhender son manque d'expérience et savoir valoriser son profil ?"
 type = "post"
 categories = ["Coaching"]
-[[plugins.css]]
-URL = "plugins/code-highlight/code-highlight.css"
-[[plugins.js]]
-URL = "plugins/mermaid/mermaid.min.js"
 [cta]
 enable = true
 
